@@ -1,0 +1,1 @@
+Files included in this project package:\n- README.md\n- .gitignore\n- reports/Geldium_EDA_Report.docx\n- reports/Geldium_Model_Evaluation_Plan.docx\n- reports/Geldium_Stakeholder_Predictive_Insights_Report.docx\n- presentation/Geldium_AI_Collections_Strategy_Deck.pptx\n
